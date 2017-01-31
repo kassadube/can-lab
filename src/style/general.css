@@ -1,0 +1,14 @@
+ .bg-1 {background-color: #C4313B; color: #ffffff;}
+     h1{margin:0px;}
+    .H50{height:50px;}
+    .H70{height:70px;}
+    .H250{height:250px;}
+    .H350{height:350px;}
+    .PT10{padding-top:10px}
+    .PT3{padding-top:5px}
+    .brd{border-top:1px solid grey}
+    .row-no-padding >[class*="col-"] {
+      padding-left: 0 !important;
+      padding-right: 0 !important;  
+      }
+    .row span{line-height:30px}
